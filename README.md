@@ -12,7 +12,7 @@ Email warm up is the process of preparing an email address, domain and / or IP t
 - You only need to fill every ip sender domain in an attached file with the tool and set how many messages likely to be in each single email per IP and start it from the remote.
 
 # Features
-- Transparent X : is a tool that is not built using an automation framework that can be detected easily from the ISP , its working 99% like a real human, that is why the ISP anti-bot system cannot detect any suspicous activity from it. 
+- Transparent X : is a tool that is not built using an automation framework that can be detected easily from the ISP , its working 99% like a real human, that is why the ISP anti-bot system cannot detect any suspicious activity from it. 
 
 - The remote : contains Button (Start - Pause - Resume - Stop - Exit)
 
